@@ -1,0 +1,9 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Turtle speed reduction",
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_base",
+    "value": -0.8
+  }
+}

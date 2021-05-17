@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"origins:natural_armor",
+		"vibe-origins:wb_effect",
+		"origins:water_vision",
+		"vibe-origins:faster_swim",
+		"origins:aqua_affinity",
+		"origins:like_water",
+		"vibe-origins:slow_movement",
+		"vibe-origins:slow_attacks",
+		"vibe-origins:turtling",
+		"vibe-origins:better_kelp",
+		"vibe-origins:heavyweight",
+		"vibe-origins:prevent_speed_change"
+	],
+	"icon": {
+		"item": "minecraft:turtle_helmet"
+	},
+	"order": 1,
+	"impact": 3
+}

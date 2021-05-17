@@ -1,0 +1,20 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:saturation",
+      "duration": 1,
+      "amplifier": 0
+    }
+  },
+    "interval": 20,
+    "hidden": false,
+    "condition": {	
+	"type": "origins:on_block",
+	"block_condition": {
+		"type": "origins:block",
+		"block": "minecraft:redstone"
+	}
+    }
+}

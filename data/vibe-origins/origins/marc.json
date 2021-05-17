@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"vibe-origins:turbo_boost",
+		"origins:fall_immunity",
+		"origins:strong_arms",
+		"origins:water_vulnerability",
+		"origins:damage_from_snowballs",
+		"origins:damage_from_potions",
+		"origins:strong_arms_break_speed",
+		"vibe-origins:short_circuiting",
+		"vibe-origins:needs_repair",
+		"vibe-origins:recharge",
+		"vibe-origins:prevent_food",
+		"vibe-origins:edible_coal"
+	],
+	"icon": {
+		"item": "minecraft:redstone_block"
+	},
+	"order": 1,
+	"impact": 3
+}

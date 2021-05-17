@@ -1,0 +1,9 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Turtle knockback immunity",
+    "attribute": "generic.knockback_resistance",
+    "operation": "addition",
+    "value": 10
+  }
+}

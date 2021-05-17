@@ -1,0 +1,9 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Turtle attack speed reduction",
+    "attribute": "generic.attack_speed",
+    "operation": "multiply_base",
+    "value": -0.2
+  }
+}

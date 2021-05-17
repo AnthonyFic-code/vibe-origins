@@ -1,0 +1,67 @@
+{
+  "origin.vibe-origins.turtle.name": "Turtalian",
+  "origin.vibe-origins.turtle.description": "A semi-aquatic origin with high defensive capabilities, restricting movement.",
+
+  "origin.vibe-origins.marc.name": "M.A.R.C",
+  "origin.vibe-origins.marc.description": "Artificial intelligence with an unknown inventor. Completely humanoid but prone to bugs.",
+
+  "origin.vibe-origins.jellyfish.name": "Jellyfish",
+  "origin.vibe-origins.jellyfish.description": "A waterbound, poisonous origin.",
+
+
+  "power.vibe-origins.faster_swim.name": "Semi-aquatic",
+  "power.vibe-origins.faster_swim.description": "You can swim faster than humans.",
+
+  "power.vibe-origins.turtling.name": "Unflippable",
+  "power.vibe-origins.turtling.description": "You do not take knockback from most sources.",
+
+  "power.vibe-origins.wb_effect.name": "Amphibious",
+  "power.vibe-origins.wb_effect.description": "You gain permanent water breathing.",
+
+  "power.vibe-origins.slow_movement.name": "Heavy-shelled",
+  "power.vibe-origins.slow_movement.description": "You always move 80% slower on land.",
+
+  "power.vibe-origins.slow_attacks.name": "Slow-armed",
+  "power.vibe-origins.slow_attacks.description": "Attacks are 20% slower.",
+
+  "power.vibe-origins.no_recursion.name": "Cubone Repellant",
+  "power.vibe-origins.no_recursion.description": "You can not use turtle shelmets.",
+
+  "power.vibe-origins.better_kelp.name": "Aquatic Vegetarian",
+  "power.vibe-origins.better_kelp.description": "Dried kelp gives 3x as much saturation.",
+
+  "power.vibe-origins.heavyweight.name": "Heavyweight",
+  "power.vibe-origins.heavyweight.description": "You can only jump half as high.",
+
+
+  "power.vibe-origins.turbo_boost.name": "Power Jump",
+  "power.vibe-origins.turbo_boost.description": "You can launch in the air every few seconds.",
+  
+  "power.vibe-origins.needs_repair.name": "In Need of Repair",
+  "power.vibe-origins.needs_repair.description": "Get slowness and weakness when falling below 3 hearts.",
+
+  "power.vibe-origins.short_circuiting.name": "Short Circuiting",
+  "power.vibe-origins.short_circuiting.description": "Take damage while in cold biomes.",
+
+  "power.vibe-origins.recharge.name": "Charger",
+  "power.vibe-origins.recharge.description": "You can regenerate hunger while standing on redstone blocks.",
+
+  "power.vibe-origins.prevent_food.name": "Electric",
+  "power.vibe-origins.prevent_food.description": "You cannot eat any normal foods.",
+
+  "power.vibe-origins.edible_coal.name": "Pica",
+  "power.vibe-origins.edible_coal.description": "You can eat assorted foods with the second ability key.",
+
+
+  "power.vibe-origins.boxed_like_a_jellyfish.name": "Boxed like a (jelly)fish",
+  "power.vibe-origins.boxed_like_a_jellyfish.description": "Your hits deal 2 seconds of poison.",
+
+  "power.vibe-origins.comically_large.name": "Large Gelatinous Entity",
+  "power.vibe-origins.comically_large.description": "You are 1.5x larger than usual.",
+
+  "power.vibe-origins.seethrough.name": "Crystal Clear",
+  "power.vibe-origins.seethrough.description": "You are slightly seethrough.",
+
+  "power.vibe-origins.bzzzt.name": "Surging with Power",
+  "power.vibe-origins.bzzzt.description": "You sting your attackers."
+}

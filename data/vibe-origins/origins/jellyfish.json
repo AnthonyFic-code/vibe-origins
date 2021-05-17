@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"vibe-origins:boxed_like_a_jellyfish",
+		"vibe-origins:comically_large",
+		"origins:water_breathing",
+		"origins:water_vision",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+		"origins:like_water",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions",
+		"vibe-origins:widener",
+		"vibe-origins:seethrough",
+		"vibe-origins:bzzzt"
+	],
+	"icon": {
+		"item": "minecraft:pufferfish"
+	},
+	"order": 1,
+	"impact": 3
+}
